@@ -16,7 +16,7 @@ int main() {
 
     distancia = sqrt(pow(x2 - x, 2) + pow(y2 - y, 2));
 
-    cout << "La distancia es de: " << distancia << endl;
+    cout << "La distancia es : " << distancia << endl;
 
     return 0;
 }
