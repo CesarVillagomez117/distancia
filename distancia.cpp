@@ -14,6 +14,7 @@ int main() {
     cout << "y2: ";
     cin >> y2;
     cout<<"fecha 14/oct/2021";
+    cout << "soy el mejor papasito"
     distancia = sqrt(pow(x2 - x, 2) + pow(y2 - y, 2));
 
     cout << "La distancia es : " << distancia << endl;
